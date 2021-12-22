@@ -1,0 +1,10 @@
+results:
+  oops: 'Oops...'
+  no_criteria: "There are no results that match your criteria. Don't worry, we have some interesting offers..."
+
+search_engine:
+  search_for: 'beon tech studio'
+  web_rating: '4,9/5'
+
+numbers:
+  one: 1
